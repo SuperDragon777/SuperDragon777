@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="300" width="600" draggable="false" src="https://raw.githubusercontent.com/SuperDragon777/SuperDragon777/main/.gif/main.gif" />
+  <img height="300" width="600" draggable="false" style="user-drag: none; -webkit-user-drag: none;" src="https://raw.githubusercontent.com/SuperDragon777/SuperDragon777/main/.gif/main.gif" />
 </div>
 
 ## Hi there 👋
