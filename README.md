@@ -54,3 +54,8 @@
 </div>
 
 <br>
+
+### 💬 Languages
+
+![Russian](https://img.shields.io/badge/Russian-Native-blue?style=flat-square)  
+![English](https://img.shields.io/badge/English-Fluent-green?style=flat-square)
