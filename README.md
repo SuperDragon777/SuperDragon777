@@ -12,7 +12,7 @@
 <h1 align="center">
   Hey there! 👋
   <br>
-  <span style="font-size: 0.5em;">My nickname is SuperDragon777 ⚡</span>
+  <sub>My nickname is SuperDragon777 ⚡</sub>
 </h1>
 
 <div align="center">
