@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">
-  Hey there! 👋 I'm SuperDragon777 
+  Hey there! 👋 I'm <code>SuperDragon777</code>
 </h1>
 
 <div align="center">
