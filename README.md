@@ -29,6 +29,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SuperDragon777.SuperDragon777" alt="Profile views counter" />
+  <a href="https://wakatime.com/@a0a93156-372e-4dcf-80b6-0142211b5284"><img src="https://wakatime.com/badge/user/a0a93156-372e-4dcf-80b6-0142211b5284.svg" alt="Total time coded since Feb 15 2026" /></a>
 </div>
 
 <br>
@@ -36,21 +37,14 @@
 <h3 align="left">🛠 My stack:</h3>
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://fabricmc.net/assets/logo.png" height="40" alt="Fabric" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
 </div>
 
 <br>
@@ -60,19 +54,12 @@
 ![Russian](https://img.shields.io/badge/Russian-Native-blue?style=flat-square)  
 ![English](https://img.shields.io/badge/English-Fluent-green?style=flat-square)
 
-<h3 align="left">📊 Statistic: </h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SuperDragon777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuperDragon777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperDragon777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<div> 
+  <h2>📊 Statistic: </h2>
+    <img src="https://streak-stats.demolab.com/?user=SuperDragon777&theme=black-ice&hide_border=true"/>
+    <br/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SuperDragon777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=151515&title_color=00E7FF&icon_color=9F9F9F&text_color=FFF" height="192px"/></a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SuperDragon777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=00E7FF&icon_color=9F9F9F&text_color=FFF" height="192px"/></a>
+</div> 
 
 ###
