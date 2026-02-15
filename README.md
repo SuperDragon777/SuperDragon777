@@ -58,8 +58,10 @@
   <h2>📊 Statistic: </h2>
     <img src="https://streak-stats.demolab.com/?user=SuperDragon777&theme=black-ice&hide_border=true"/>
     <br/>
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SuperDragon777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=151515&title_color=00E7FF&icon_color=9F9F9F&text_color=FFF" height="192px"/></a>
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SuperDragon777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=00E7FF&icon_color=9F9F9F&text_color=FFF" height="192px"/></a>
-</div> 
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SuperDragon777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=151515&title_color=00E7FF&icon_color=9F9F9F&text_color=FFF" height="192px"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SuperDragon777&langs_count=8&layout=compact&hide_border=true&bg_color=151515&title_color=00E7FF&icon_color=9F9F9F&text_color=FFF" height="192px"/>
+    <br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=SuperDragon777&bg_color=151515&line=00E7FF&color=9F9F9F&text_color=FFF&hide_border=true&point=FFFFFF" />
+</div>
 
 ###
