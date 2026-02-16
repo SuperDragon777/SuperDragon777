@@ -35,9 +35,13 @@
 <br>
 
 <h3 align="left">🛠Technologies & Tools:</h3>
+✅ in use:
 
-[![Technologies & Tools](https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,windows,linux,discord&perline=13)](#)
+[![inuse](https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,windows,linux,discord&perline=10)](#)
 
+📜 in learning:
+
+[![learning](https://skillicons.dev/icons?i=go,androidstudio,bash,powershell,svg,ts,unity&perline=10)](#)
 
 
 ### 💬 Languages
