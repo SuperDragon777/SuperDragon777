@@ -34,20 +34,11 @@
 
 <br>
 
-<h3 align="left">🛠 My stack:</h3>
+<h3 align="left">🛠Technologies & Tools:</h3>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-</div>
+[![Technologies & Tools](https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,windows,linux,discord&perline=13)](#)
 
-<br>
+
 
 ### 💬 Languages
 
